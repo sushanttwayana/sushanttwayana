@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant Twayana</h1>
 <h3 align="center">A passionate learner, enthusiastic frontend and design lover</h3>
-
+<img align ="right" alt="gif coding" width = "450" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanttwayana&label=Profile%20views&color=0e75b6&style=flat" alt="sushanttwayana" /> </p>
 
 - 🔭 I’m currently working on [Wordpress](http://localhost/wordpress/)
