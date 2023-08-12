@@ -2,9 +2,9 @@
 <h3 align="center">A passionate learner, enthusiastic frontend and design lover</h3>
 <img align ="right" alt="gif coding" width = "420" src ="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on [Wordpress](http://localhost/wordpress/)
+- 🔭 I’m currently working on [Python](https://www.python.org/)
 
-- 🌱 I’m currently learning **javascript, wordpress**
+- 🌱 I’m currently learning **React, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushanttwayana](https://github.com/sushanttwayana)
 
