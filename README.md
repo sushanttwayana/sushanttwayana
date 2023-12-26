@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sushant Twayana</h1>
-<h3 align="center">A passionate learner, enthusiastic frontend and design lover</h3>
+<h3 align="center">Intrested In Machine Learning, Deep Learning and Artifical Intelligence</h3>
 <img align ="right" alt="gif coding" width = "420" src ="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently working on [Python](https://www.python.org/)
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **Python, ML Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushanttwayana](https://github.com/sushanttwayana)
 
-- 💬 Ask me about **html, css, c, c++, js, wordpress, figma**
+- 💬 Ask me about **html, css, c, c++, js, wordpress, figma, python**
 
 - 📫 How to reach me **sushanttwayana1@gmail.com**
 
