@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sushanttwayana1@gmail.com**
 
-- ⚡ Fun fact I loves my babes very much
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
