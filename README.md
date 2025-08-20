@@ -1,6 +1,11 @@
-# Hi there 👋 I'm Sushant Twayana!
+<div align="center">
+  <h1>Hi there 👋, I'm Sushant Twayana</h1>
+  <p>AI & MLOps Engineer | Data Scientist | Computer Engineer</p>
+</div>
 
-### **AI & MLOps Engineer | Data Scientist | Computer Engineer**
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width="420" />
+</div>
 
 ---
 
@@ -50,11 +55,23 @@ My work focuses on bridging the gap between theoretical models and real-world ap
 
 ---
 
+### **GitHub Stats**
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanttwayana&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sushanttwayana&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushanttwayana&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
 ### **Let's Connect**
 
-<a href="https://www.linkedin.com/in/sushanttwayana" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:sushanttwayana1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p>
+  <a href="https://linkedin.com/in/sushanttwayana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sushanttwayana1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
