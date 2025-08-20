@@ -65,13 +65,17 @@ My work focuses on bridging the gap between theoretical models and real-world ap
 
 ---
 
-### **Let's Connect**
+<h3 align="left">Connect with me:</h3>
 
-<p>
-  <a href="https://linkedin.com/in/sushanttwayana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:sushanttwayana1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<p align="left">
+
+<a href="https://linkedin.com/in/sushant-twayana-b4840a254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-twayana-b4840a254" height="30" width="40" /></a>
+
+<a href="https://fb.com/sushant.twayana.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sushant.twayana.7" height="30" width="40" /></a>
+
+<a href="https://instagram.com/sushant_twayana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushant_twayana_" height="30" width="40" /></a>
+
 </p>
+
+
+
