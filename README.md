@@ -95,7 +95,6 @@ My work focuses on bridging the gap between theoretical models and real-world ap
 </p>
 
 ---
----
 ### **Let's Connect**
 
 <p align="left">
