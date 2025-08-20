@@ -1,33 +1,60 @@
-<h1 align="center">Hi 👋, I'm Sushant Twayana</h1>
-<h3 align="center">Intrested In Machine Learning, Deep Learning and Artifical Intelligence</h3>
-<img align ="right" alt="gif coding" width = "420" src ="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+# Hi there 👋 I'm Sushant Twayana!
 
-- 🔭 I’m currently working on [Python](https://www.python.org/)
+### **AI & MLOps Engineer | Data Scientist | Computer Engineer**
 
-- 🌱 I’m currently learning **Python, ML Projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/sushanttwayana](https://github.com/sushanttwayana)
+### **About Me**
 
-- 💬 Ask me about **html, css, c, c++, js, wordpress, figma, python**
+I'm a recent Computer Engineering graduate with a strong focus on **Data Science, Machine Learning, and MLOps**. My passion lies in building and deploying end-to-end AI solutions, from the initial data processing and model training to scalable production deployment. I have hands-on experience developing sophisticated systems, including real-time recommendation engines and intelligent chatbots, and I'm always exploring cutting-edge AI frameworks.
 
-- 📫 How to reach me **sushanttwayana1@gmail.com**
+---
 
-- ⚡ Fun fact 
+### **What I'm Passionate About**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sushant-twayana-b4840a254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-twayana-b4840a254" height="30" width="40" /></a>
-<a href="https://fb.com/sushant.twayana.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sushant.twayana.7" height="30" width="40" /></a>
-<a href="https://instagram.com/sushant_twayana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushant_twayana_" height="30" width="40" /></a>
+My work focuses on bridging the gap between theoretical models and real-world applications. I'm particularly enthusiastic about:
+
+* **MLOps & Deployment:** Architecting and implementing CI/CD pipelines for machine learning models using **Docker, Kubernetes, and Kubeflow** to ensure robust and scalable production systems.
+* **Conversational AI & LLMs:** Building intelligent applications with **LangChain, RAG architecture, and Vector Databases**.
+* **Predictive Analytics:** Developing and fine-tuning predictive models for diverse domains like finance and agriculture, leveraging tools like **PySpark and XGBoost**.
+* **Computer Vision & Generative AI:** Creating innovative solutions using frameworks like **TensorFlow and PyTorch** for tasks like image recognition and text-to-image generation.
+
+---
+
+### **Featured Projects**
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Banking Recommendation System** | Engineered a fixed deposit recommendation system, optimizing data pipelines for real-time inference using Trino and MinIO. | PySpark, Trino, MinIO, Kubeflow, Kubernetes |
+| **"Imagin Face" Generator** | A text-to-human face generation system using DC GAN and DF GAN architectures to create realistic human faces from text descriptions. | PyTorch, GANs |
+| **Newari Food Assistant Chatbot** | Architected a production-grade intelligent chatbot for a Newari food assistant, powered by RAG and autonomous agents. | LangChain, RAG, Dialogflow, Vector Databases |
+| **End-to-End MLOps Pipeline** | Deployed an MNIST digit classification pipeline with automated CI/CD workflows, showcasing robust model deployment practices. | Kubeflow, FastAPI, KServe, Docker |
+
+---
+
+### **My Toolbox**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Kubeflow-F27A34?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanttwayana&theme=dark&show_icons=true&locale=en&layout=compact" alt="sushanttwayana" /></p>
+### **Let's Connect**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushanttwayana&theme=dark&show_icons=true&locale=en" alt="sushanttwayana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushanttwayana&theme=dark" alt="sushanttwayana" /></p>
-
-![](https://activity-graph.herokuapp.com/graph?username=sushanttwayana&custom_title=Sushant%27s%20Contribution%20Graph&theme=nord)
+<a href="https://www.linkedin.com/in/sushanttwayana" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:sushanttwayana1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
