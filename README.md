@@ -99,14 +99,11 @@ My work focuses on bridging the gap between theoretical models and real-world ap
 ### **Let's Connect**
 
 <p align="left">
-  <a href="https://linkedin.com/in/sushanttwayana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sushant-twayana-b4840a254/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-twayana-b4840a254" height="30" width="40" />
   </a>
-  <a href="https://fb.com/sushant.twayana.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://instagram.com/sushant_twayana_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://fb.com/sushant.twayana.7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sushant.twayana.7" height="30" width="40" />
   </a>
 </p>
 
