@@ -36,7 +36,6 @@ My work focuses on bridging the gap between theoretical models and real-world ap
 | **End-to-End MLOps Pipeline** | Deployed an MNIST digit classification pipeline with automated CI/CD workflows, showcasing robust model deployment practices. | Kubeflow, FastAPI, KServe, Docker |
 
 ---
-
 ### **My Toolbox**
 
 <p align="left">
